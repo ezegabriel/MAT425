@@ -1,0 +1,7 @@
+Good attempt!
+
+I do not see much connections drawn about Legendre polynomials or distributions etc.
+
+The goal of this assignment was to revisit the theory section of Paper 2. We had already discussed it line by line, though spread across 5–6 class days, because we needed to fill in background gaps—on complex analysis, polynomials, convergence from an analysis perspective, distributions, and more. We carefully justified each equation, showing how it was derived. Some of the more advanced or missing pieces were explored as project topics, while others were covered in quizzes or HW.
+
+This process mirrors what often happens in higher studies or at your job: you start reading a paper/ start working on a new project and then realize you’re missing some foundational knowledge. At that point, you have to pause, learn what’s missing, and return to the task with a better understanding. It can be disheartening and discouraging, but going through that cycle now prepares you for what to expect in graduate school and beyond.
